@@ -82,7 +82,10 @@ endmodule
 
 
 **RTL Schematic**
+
+
 ![DE E-3 RTL](https://github.com/04Varsha/HALF_ADDER_SUBTRACTOR/assets/149035374/4146d7c9-565b-4389-b8a2-54118b2c261e)
+
 
 **Output/TIMING Waveform**
 
